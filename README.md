@@ -1,7 +1,7 @@
 
-#Machine Learning Project (supervised learning)
-    House Price Prediction with Linear Regression .
-
+# Machine Learning Project (supervised learning)
+    House Price Prediction with Linear Regression.
+# Features 
 1. Define the problem
 
 2. Collect data
